@@ -1,0 +1,22 @@
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+S:\Office 365\OneDrive for Business\Diploma of Software Development\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 9 (9th of October)\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
