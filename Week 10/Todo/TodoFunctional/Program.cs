@@ -89,7 +89,7 @@ namespace TodoFunctional
         static void ReadToggleExistingTodo()
         {
             Console.WriteLine("Toggle Todo: ");
-            // Do something to toggle the todo item thingy-ma-bob thing
+            //(!COMPLETE!) Do something to toggle the todo item thingy-ma-bob thing
             Console.WriteLine("Which Todo's status do you wish to toggle?");
             var T = Console.ReadLine();
             var Toggle = Convert.ToInt32(T);
