@@ -1,0 +1,4 @@
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfoInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfo.cs
