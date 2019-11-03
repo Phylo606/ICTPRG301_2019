@@ -20,3 +20,14 @@ C:\Users\102119144\Documents\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debu
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.AssemblyInfo.cs
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.dll
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.pdb
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\bin\Debug\netcoreapp2.1\TodoFunctional.deps.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\bin\Debug\netcoreapp2.1\TodoFunctional.runtimeconfig.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\bin\Debug\netcoreapp2.1\TodoFunctional.runtimeconfig.dev.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\bin\Debug\netcoreapp2.1\TodoFunctional.dll
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\bin\Debug\netcoreapp2.1\TodoFunctional.pdb
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.csprojAssemblyReference.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.csproj.CoreCompileInputs.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.AssemblyInfoInputs.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.AssemblyInfo.cs
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.dll
+E:\Swinburne\git repository\ICTPRG301_2019\Week 10\Todo\TodoFunctional\obj\Debug\netcoreapp2.1\TodoFunctional.pdb

@@ -2,3 +2,14 @@ C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritanc
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.csproj.CoreCompileInputs.cache
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfoInputs.cache
 C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfo.cs
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.deps.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.runtimeconfig.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.runtimeconfig.dev.json
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.dll
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.pdb
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.csprojAssemblyReference.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.csproj.CoreCompileInputs.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfoInputs.cache
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfo.cs
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.dll
+E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.pdb
