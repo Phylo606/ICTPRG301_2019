@@ -13,3 +13,10 @@ E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance
 E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.AssemblyInfo.cs
 E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.dll
 E:\Swinburne\git repository\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.deps.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.runtimeconfig.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.runtimeconfig.dev.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\bin\Debug\netcoreapp2.1\Inheritance_Tasks.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 12\Inheritance_Tasks\Inheritance_Tasks\obj\Debug\netcoreapp2.1\Inheritance_Tasks.pdb

@@ -688,24 +688,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\102119144\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Swinburne\\git repository\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
+      "projectUniqueName": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
       "projectName": "Inheritance_Tasks",
-      "projectPath": "E:\\Swinburne\\git repository\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Swinburne\\git repository\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\obj\\",
+      "projectPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
+      "packagesPath": "C:\\Users\\102119144\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\102119144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
