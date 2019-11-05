@@ -6,43 +6,6 @@ namespace Inheritance_Tasks
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Inheritance Application");
-
-
-
-            //Student Jimmy = new Student("Jimmy", 1990, 180, "male", "405");
-            //Jimmy.Units = new List<string>() { "programming", "design", "management" };
-            //Jimmy.EnrolledDate = new DateTime(2010, 8, 18);
-            AddStudent("Barnes", 1992, 191, "Male", "002");
-
-            while (true)
-            {
-                Console.Clear();
-                DisplayAllPeople();
-                Console.WriteLine("Pick an option using the numbers on your keyboard:");
-                Console.WriteLine(" (1) -> Create Student");
-                Console.WriteLine(" (2) -> Create Teacher");
-                Console.WriteLine(" (3) -> Create Admin");
-                Console.WriteLine(" (4) -> Delete Student");
-                Console.WriteLine(" (5) -> Delete Teacher");
-                Console.WriteLine(" (6) -> Delete Admin");
-
-                Console.ReadLine();
-            }
-            /*Console.WriteLine(Jimmy.Name);
-            Console.WriteLine(Jimmy.GetAge());
-            Console.WriteLine(Jimmy.Height);
-            Console.WriteLine(Jimmy.Gender);
-            Console.WriteLine(Jimmy.Id);
-            Console.WriteLine(Jimmy.Units[0]);
-            Console.WriteLine(Jimmy.EnrolledDate);*/
-         
-            //List<string> jimmysunits = new List<string> { "x", "y", "z" };
-            //Console.WriteLine(jimmysunits[0]);            
-        }
-
         static List<Person> PeopleList = new List<Person>();
 
         static int AddStudent(string name, int yearofbirth, float height, string gender, string id)
@@ -51,7 +14,42 @@ namespace Inheritance_Tasks
             
             Student t = new Student(name, yearofbirth, height, gender, id);
             t.EnrolledDate = DateTime.Now;
-            t.Units = new List<string>() { "Programming", "Design", "Ethics" };
+            Console.WriteLine("What units do you want to enrol this student into? Pick 3");
+            Console.WriteLine("Unit 1:");
+            string unit1 = Console.ReadLine();
+            Console.WriteLine("Unit 2:");
+            string unit2 = Console.ReadLine();
+            Console.WriteLine("Unit 3:");
+            string unit3 = Console.ReadLine();
+            t.Units = new List<string>() { unit1, unit2, unit3 };
+            PeopleList.Add(t);
+
+            return index;
+        }
+
+        static int AddAdmin(string name, int yearofbirth, float height, string gender, string id, string staffroom, string email, int clearancelevel, string internalphonenumber)
+        {
+            var index = PeopleList.Count;
+
+            Admin t = new Admin(name, yearofbirth, height, gender, id, staffroom, email, clearancelevel, internalphonenumber);
+            PeopleList.Add(t);
+
+            return index;
+        }
+
+        static int AddTeacher(string name, int yearofbirth, float height, string gender, string id, string staffroom, string email)
+        {
+            var index = PeopleList.Count;
+
+            Teacher t = new Teacher(name, yearofbirth, height, gender, id, staffroom, email);
+            Console.WriteLine("What units do you want this teacher to teach? Pick 3");
+            Console.WriteLine("Unit 1:");
+            string unit1 = Console.ReadLine();
+            Console.WriteLine("Unit 2:");
+            string unit2 = Console.ReadLine();
+            Console.WriteLine("Unit 3:");
+            string unit3 = Console.ReadLine();
+            t.Units = new List<string>() { unit1, unit2, unit3 };
             PeopleList.Add(t);
 
             return index;
@@ -81,17 +79,16 @@ namespace Inheritance_Tasks
 
         static void CreateNewPerson()
         {
-            Console.WriteLine("Create student: ");
-            Console.WriteLine("What is the student's name?");
+            Console.WriteLine("Create Person: ");
+            Console.WriteLine("What is the person's name?");
             string name = Console.ReadLine();
-            Console.WriteLine("What is the student's year of birth?");
+            Console.WriteLine("What is the person's year of birth?");
             int yearofbirth = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("How tall is the student in centimetres?");
+            Console.WriteLine("How tall is the person in centimetres?");
             float height = float.Parse(Console.ReadLine());
-            Console.WriteLine("What is the student's gender?");
+            Console.WriteLine("What is the person's gender?");
             string gender = Console.ReadLine();
-
-            Console.WriteLine("Select what type of person you wish to create");
+            Console.WriteLine("Select what type of person you wish to create: ");
             Console.WriteLine(" (1) -> Student");
             Console.WriteLine(" (2) -> Staff Member");
 
@@ -113,17 +110,71 @@ namespace Inheritance_Tasks
                 string email = Console.ReadLine();
 
                 Console.WriteLine("Select what type of staff member you wish to create");
-                Console.WriteLine(" (1) -> Teacher");
-                Console.WriteLine(" (2) -> Admin");
+                Console.WriteLine(" (1) -> Admin");
+                Console.WriteLine(" (2) -> Teacher");
 
                 var j = Console.ReadKey();
                 if(j.Key == ConsoleKey.D1)
                 {
+                    Console.WriteLine("What is this admin's clearance level?");
+                    int clearancelevel = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("What is this admin's internal phone number?");
+                    string internalphonenumber = Console.ReadLine();
 
+                    AddAdmin(name, yearofbirth, height, gender, id, staffroom, email, clearancelevel, internalphonenumber);
                 }
-
-
+                else if(j.Key == ConsoleKey.D2)
+                {
+                    AddTeacher(name, yearofbirth, height, gender, id, staffroom, email);
+                }
             }
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Inheritance Application");
+
+
+
+            //Student Jimmy = new Student("Jimmy", 1990, 180, "male", "405");
+            //Jimmy.Units = new List<string>() { "programming", "design", "management" };
+            //Jimmy.EnrolledDate = new DateTime(2010, 8, 18);
+            //AddStudent("Barnes", 1992, 191, "Male", "002");
+
+            while (true)
+            {
+                Console.Clear();
+                DisplayAllPeople();
+                Console.WriteLine("Pick an option using the numbers on your keyboard:");
+                Console.WriteLine(" (1) -> Create Person");
+                Console.WriteLine(" (2) -> Exit");
+
+                var key = Console.ReadKey(true);
+
+                if (key.Key == ConsoleKey.D1)
+                {
+                    CreateNewPerson();
+                }
+                else if (key.Key == ConsoleKey.D2)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a valid number");
+                    Console.ReadKey(true);
+                }
+            }
+            /*Console.WriteLine(Jimmy.Name);
+            Console.WriteLine(Jimmy.GetAge());
+            Console.WriteLine(Jimmy.Height);
+            Console.WriteLine(Jimmy.Gender);
+            Console.WriteLine(Jimmy.Id);
+            Console.WriteLine(Jimmy.Units[0]);
+            Console.WriteLine(Jimmy.EnrolledDate);*/
+
+            //List<string> jimmysunits = new List<string> { "x", "y", "z" };
+            //Console.WriteLine(jimmysunits[0]);            
         }
     }
 
@@ -220,10 +271,9 @@ namespace Inheritance_Tasks
                 return false;
             }
         }
-        public Teacher(string name, int yearofbirth, float height, string gender, string id, string office, string email, List<string> units, DateTime contractenddate) : base(name, yearofbirth, height, gender, id, office, email)
+        public Teacher(string name, int yearofbirth, float height, string gender, string id, string office, string email) : base(name, yearofbirth, height, gender, id, office, email)
         {
-            this.Units = units;
-            this.ContractEndDate = contractenddate;
+            
         }
     }
 }
