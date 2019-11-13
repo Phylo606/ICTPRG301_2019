@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
-      "projectName": "Inheritance_Tasks",
-      "projectPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\Inheritance_Tasks.csproj",
+      "projectUniqueName": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 13\\Exceptions_App\\Exceptions_App\\Exceptions_App.csproj",
+      "projectName": "Exceptions_App",
+      "projectPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 13\\Exceptions_App\\Exceptions_App\\Exceptions_App.csproj",
       "packagesPath": "C:\\Users\\102119144\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 12\\Inheritance_Tasks\\Inheritance_Tasks\\obj\\",
+      "outputPath": "C:\\Users\\102119144\\Documents\\ICTPRG301_2019\\Week 13\\Exceptions_App\\Exceptions_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

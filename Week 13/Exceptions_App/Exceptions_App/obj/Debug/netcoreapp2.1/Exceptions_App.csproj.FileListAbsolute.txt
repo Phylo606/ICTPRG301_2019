@@ -1,0 +1,11 @@
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\bin\Debug\netcoreapp2.1\Exceptions_App.deps.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\bin\Debug\netcoreapp2.1\Exceptions_App.runtimeconfig.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\bin\Debug\netcoreapp2.1\Exceptions_App.runtimeconfig.dev.json
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\bin\Debug\netcoreapp2.1\Exceptions_App.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\bin\Debug\netcoreapp2.1\Exceptions_App.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.AssemblyInfoInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.AssemblyInfo.cs
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 13\Exceptions_App\Exceptions_App\obj\Debug\netcoreapp2.1\Exceptions_App.pdb
