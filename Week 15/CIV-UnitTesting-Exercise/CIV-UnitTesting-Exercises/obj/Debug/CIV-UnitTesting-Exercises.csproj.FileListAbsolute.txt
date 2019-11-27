@@ -1,0 +1,6 @@
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\bin\Debug\CIV_UnitTesting_Exercises.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\bin\Debug\CIV_UnitTesting_Exercises.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\obj\Debug\CIV-UnitTesting-Exercises.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\obj\Debug\CIV-UnitTesting-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\obj\Debug\CIV_UnitTesting_Exercises.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercise\CIV-UnitTesting-Exercises\obj\Debug\CIV_UnitTesting_Exercises.pdb

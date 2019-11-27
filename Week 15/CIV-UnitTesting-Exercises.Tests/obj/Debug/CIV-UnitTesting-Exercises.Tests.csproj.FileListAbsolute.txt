@@ -1,0 +1,12 @@
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\CIV-UnitTesting-Exercises.Tests.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\CIV-UnitTesting-Exercises.Tests.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\CIV_UnitTesting_Exercises.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\nunit.framework.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\CIV_UnitTesting_Exercises.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\bin\Debug\nunit.framework.xml
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\obj\Debug\CIV-UnitTesting-Exercises.Tests.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\obj\Debug\CIV-UnitTesting-Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\obj\Debug\CIV-UnitTesting-Exercises.Tests.csproj.CopyComplete
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\obj\Debug\CIV-UnitTesting-Exercises.Tests.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\CIV-UnitTesting-Exercises.Tests\obj\Debug\CIV-UnitTesting-Exercises.Tests.pdb

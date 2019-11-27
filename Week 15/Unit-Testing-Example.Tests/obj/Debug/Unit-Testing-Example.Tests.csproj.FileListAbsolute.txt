@@ -1,0 +1,12 @@
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\Unit-Testing-Example.Tests.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\Unit-Testing-Example.Tests.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\nunit.framework.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\Unit-Testing-Example.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\Unit-Testing-Example.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\bin\Debug\nunit.framework.xml
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\obj\Debug\Unit-Testing-Example.Tests.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\obj\Debug\Unit-Testing-Example.Tests.csproj.CoreCompileInputs.cache
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\obj\Debug\Unit-Testing-Example.Tests.csproj.CopyComplete
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\obj\Debug\Unit-Testing-Example.Tests.dll
+C:\Users\102119144\Documents\ICTPRG301_2019\Week 15\Unit-Testing-Example.Tests\obj\Debug\Unit-Testing-Example.Tests.pdb
